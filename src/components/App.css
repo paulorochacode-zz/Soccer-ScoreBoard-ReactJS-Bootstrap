@@ -1,9 +1,10 @@
-body{
-      background: white;
+body {margin: 0px;
+      padding: 0px;}
+
+h3{
+      font-size: 2vw;
 }
 
-#counter{
-      border-width: 5px;
-      border-style: solid;
-      border-color: rgb(0, 0, 0);
+h3{
+      font-size: 2vw;
 }
