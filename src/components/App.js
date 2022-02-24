@@ -23,7 +23,7 @@ export default class App extends React.Component{
                       home={data.home}
                       visitor={data.visitor}/>
         </div>
-       );
+       )
     }
 }
 
